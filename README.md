@@ -86,5 +86,9 @@ Developed for Cognizant Hackathon 2025.
 <div align="center">
 	<img src="Technology%20Stack.jpg" width="350"/>
 	<br/>
+
+	</div>
+	<div><br>
 	<img src="https://github.com/user-attachments/assets/599b8c0d-8313-45e2-ab7a-005b74fdd2e6" width="350"/>
+	</br>
 </div>
