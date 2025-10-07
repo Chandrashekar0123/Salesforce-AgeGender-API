@@ -49,6 +49,11 @@ curl -X POST -F "image=@your_image.jpg" http://localhost:5000/predict_age
 
 ---
 
+<img width="1280" height="612" alt="image" src="https://github.com/user-attachments/assets/cc13d590-5141-4709-bb56-53ca829d09b9" />
+
+
+---
+
 ## 📊 Architecture
 ![Architecture Diagram](Architecture%20Diagram.jpg)
 
